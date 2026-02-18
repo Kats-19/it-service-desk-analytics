@@ -7,7 +7,7 @@ This project analyzes synthetic IT service desk ticket data to identify ineffici
 ---
 
 ## 🚀 Live Demo
-(Add your Streamlit deployment link here once deployed)
+https://it-service-desk-analytics.streamlit.app/
 
 ---
 
